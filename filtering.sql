@@ -1,1 +1,1 @@
-SELECT * from sales WHERE (is_recurring IS FALSE) AND (volume > 1000);
+SELECT * from sales WHERE date_fulfilled BETWEEN '2021-11-01' AND '2022-05-01';
