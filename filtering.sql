@@ -1,0 +1,1 @@
+SELECT * from sales WHERE (is_recurring IS FALSE) AND (volume > 1000);
