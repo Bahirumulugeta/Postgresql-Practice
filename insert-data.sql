@@ -1,1 +1,1 @@
-INSERT INTO sales (customer_name,product_name,volume,is_recurring) values ('Bahiru Mulugeta','Laptop',10000,TRUE);
+INSERT INTO sales (customer_name,product_name,volume,is_recurring) values ('John Mulugeta','Laptop',12000,TRUE),('Hena Mulugeta','Laptop',15000,TRUE);
