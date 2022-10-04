@@ -1,0 +1,1 @@
+INSERT INTO sales (customer_name,product_name,volume,is_recurring) values ('Bahiru Mulugeta','Laptop',10000,TRUE);
