@@ -1,1 +1,1 @@
-SELECT customer_name,product_name,volume FROM sales;
+SELECT customer_name,product_name,volume/200 AS total_volume FROM sales; 
