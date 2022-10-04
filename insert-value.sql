@@ -1,0 +1,1 @@
+INSERT INTO kemer_user (full_name,salary,current_status) VALUES ('Bahiru Mulugeta',0,'un-employed');

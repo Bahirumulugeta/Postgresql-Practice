@@ -1,0 +1,1 @@
+DROP TABLE kemer_user;
