@@ -1,1 +1,1 @@
-SELECT DISTINCT customer_name FROM sales;
+SELECT DISTINCT customer_name FROM sales ORDER BY customer_name DESC LIMIT 3 OFFSET 1;
