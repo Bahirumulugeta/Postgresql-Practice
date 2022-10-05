@@ -1,1 +1,1 @@
-SELECT DISTINCT * FROM sales;
+SELECT DISTINCT customer_name FROM sales;
