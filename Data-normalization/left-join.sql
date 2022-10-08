@@ -1,0 +1,1 @@
+SELECT * FROM users AS u LEFT JOIN addresses AS a ON u.address_id = a.id;
