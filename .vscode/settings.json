@@ -29,6 +29,16 @@
             "name": "postgres",
             "database": "kemer",
             "username": "postgres"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "users",
+            "database": "users",
+            "username": "postgres"
         }
     ]
 }
