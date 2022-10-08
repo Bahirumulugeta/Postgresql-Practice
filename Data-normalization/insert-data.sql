@@ -8,6 +8,6 @@
 
 INSERT INTO users(first_name,last_name,email,address_id)
 VALUES
-      ('Bahiru','Mulugeta','bahiru@kemercode.com',2),
-      ('Eyob','Henok','eyob@kemercode.com',3),
-      ('Negasi','Kiflom','bahiru@kemercode.com',4);
+      ('Someone','Mulugeta','someone@kemercode.com',6),
+      ('Newone','Henok','new@kemercode.com',1),
+      ('Another','Kiflom','ano@kemercode.com',4);
