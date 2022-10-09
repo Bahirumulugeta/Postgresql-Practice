@@ -1,0 +1,2 @@
+INSERT INTO employees(first_name,last_name,birthdate,email) VALUES('Bahiru','Mulugeta','1989-03-20','bahiru@kemercode.com');
+INSERT INTO intranet_accounts(email,password) VALUES ('bahiru@kemercode.com','12345');
