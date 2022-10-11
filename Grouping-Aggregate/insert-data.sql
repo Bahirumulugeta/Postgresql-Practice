@@ -1,0 +1,1 @@
+INSERT INTO emp(first_name,last_name,salary) values('Bahiru','Mulugeta',100),('John','Alemu',150),('Hena','Zinger',180);
