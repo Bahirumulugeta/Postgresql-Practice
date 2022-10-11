@@ -8,4 +8,4 @@ CREATE TABLE sales(
     volume NUMERIC(10,3) NOT NULL CHECK (volume >= 0),
     is_recurring BOOLEAN DEFAULT FALSE,
     is_disputed BOOLEAN DEFAULT FALSE
-);
+); 
